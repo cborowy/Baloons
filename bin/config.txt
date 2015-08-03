@@ -1,0 +1,12 @@
+level0 = 1
+level1 = 2
+level2 = 3
+level3 = 4
+level4 = 5
+level5 = 6
+level6 = 7
+r = 24
+x = 21
+y = 20
+startX = 21
+startY = 10
